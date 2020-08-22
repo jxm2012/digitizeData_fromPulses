@@ -1,6 +1,6 @@
 # digitizeData_fromPulses
 
-Program done as part of the Signal Processing class taught by Dr. Brazeale in CSE-3313 at UT Arlington
+Program done as part of the Signal Processing class taught by Dr. Brezeale in CSE-3313 at UT Arlington
 
 Given values in a file named data-communications.csv, containing a sequence of pulses in the range between 0 to 1, 
 this processes digitized data using a matched filter. This is done to see whether the pulses (sequences) 
